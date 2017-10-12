@@ -1,4 +1,4 @@
-TIMESTAMPS
+USER MIXIN
 =============
 
 This module is designed for the [Strongloop Loopback](https://github.com/strongloop/loopback) framework.  It automatically adds `createdBy` and `updatedBy` attributes to any Model.
